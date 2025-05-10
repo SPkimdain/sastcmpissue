@@ -10,7 +10,7 @@
 
     <properties>
         <poi.version>4.0.1</poi.version>
-        <poi-ooxml.version>4.0.1</poi-ooxml.version>
+        <poi-ooxml.version>5.4.0</poi-ooxml.version>
     </properties>
 
     <dependencies>
